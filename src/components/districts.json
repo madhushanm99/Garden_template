@@ -1,0 +1,28 @@
+[
+    { "value": "colombo", "label": "Colombo" },
+    { "value": "gampaha", "label": "Gampaha" },
+    { "value": "kalutara", "label": "Kalutara" },
+    { "value": "kandy", "label": "Kandy" },
+    { "value": "matale", "label": "Matale" },
+    { "value": "nuwara_eliya", "label": "Nuwara Eliya" },
+    { "value": "galle", "label": "Galle" },
+    { "value": "matara", "label": "Matara" },
+    { "value": "hambantota", "label": "Hambantota" },
+    { "value": "jaffna", "label": "Jaffna" },
+    { "value": "kilinochchi", "label": "Kilinochchi" },
+    { "value": "mannar", "label": "Mannar" },
+    { "value": "vavuniya", "label": "Vavuniya" },
+    { "value": "mullaitivu", "label": "Mullaitivu" },
+    { "value": "batticaloa", "label": "Batticaloa" },
+    { "value": "ampara", "label": "Ampara" },
+    { "value": "trincomalee", "label": "Trincomalee" },
+    { "value": "kurunegala", "label": "Kurunegala" },
+    { "value": "puttalam", "label": "Puttalam" },
+    { "value": "anuradhapura", "label": "Anuradhapura" },
+    { "value": "polonnaruwa", "label": "Polonnaruwa" },
+    { "value": "badulla", "label": "Badulla" },
+    { "value": "moneragala", "label": "Moneragala" },
+    { "value": "ratnapura", "label": "Ratnapura" },
+    { "value": "kegalle", "label": "Kegalle" }
+  ]
+  
